@@ -1,0 +1,4 @@
+/tmp/tmp.m2AFh3VLyn/cmake-build-debug/CMakeFiles/myEditor.dir
+/tmp/tmp.m2AFh3VLyn/cmake-build-debug/CMakeFiles/test.dir
+/tmp/tmp.m2AFh3VLyn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.m2AFh3VLyn/cmake-build-debug/CMakeFiles/rebuild_cache.dir

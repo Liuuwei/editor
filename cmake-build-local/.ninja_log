@@ -1,0 +1,7 @@
+# ninja log v5
+213	254	1691551260601125293	/Users/liuwei/CLionProjects/myEditor/bin/myEditor	dcba7047a8c1ef51
+0	899	1691488725892181090	CMakeFiles/myEditor.dir/main.cpp.o	e4bc2d3d03a33b37
+0	61	1691655940965346849	build.ninja	4bef602295615ddc
+2	213	1691551260557700796	CMakeFiles/myEditor.dir/kilo.cpp.o	ed297c6996981030
+0	172	1691637156441638233	CMakeFiles/test.dir/test.cpp.o	33d4af1282a7301
+172	218	1691637156488814906	/Users/liuwei/CLionProjects/myEditor/bin/test	367f904cef0e3ecb

@@ -1,0 +1,4 @@
+/Users/liuwei/CLionProjects/myEditor/cmake-build-local/CMakeFiles/myEditor.dir
+/Users/liuwei/CLionProjects/myEditor/cmake-build-local/CMakeFiles/test.dir
+/Users/liuwei/CLionProjects/myEditor/cmake-build-local/CMakeFiles/edit_cache.dir
+/Users/liuwei/CLionProjects/myEditor/cmake-build-local/CMakeFiles/rebuild_cache.dir
